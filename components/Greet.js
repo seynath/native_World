@@ -7,6 +7,7 @@ const Greet = () => {
       <Text>Hello Greet</Text>
       <Text>Hello Greet</Text>
       <Text>Hello Greet</Text>
+      <Text>Hello last</Text>
 </View>
   )
 }
